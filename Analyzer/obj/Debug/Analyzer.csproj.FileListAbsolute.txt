@@ -1,0 +1,232 @@
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\SharpDisasm.dll
+C:\Users\Administrator\Desktop\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\bin\Debug\SharpDisasm.dll
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\reaserch\testdbg\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\App_Data\analice_db.mdf
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\App_Data\analice_db_log.ldf
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\SharpDisasm.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.xml
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.xml
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.xml
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.TextReader.resources
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CopyComplete
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.xml
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.dll
+D:\My Projects\Testing Project\Dot.Net\Analyzer\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\App_Data\analice_db.mdf
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\App_Data\analice_db_log.ldf
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\SharpDisasm.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.TextReader.resources
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\netstandard.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.AppContext.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Collections.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ComponentModel.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Console.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Data.Common.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Globalization.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Linq.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Ping.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Requests.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Security.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ObjectModel.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Reflection.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Principal.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\bin\Debug\Nerdicus.VirusTotal.NET.dll
+C:\Users\Administrator\Desktop\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.exe.config
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\App_Data\analice_db.mdf
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\App_Data\analice_db_log.ldf
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\BouncyCastle.Crypto.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.Core.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\itextsharp.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\itextsharp.xmlworker.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\KaitaiStruct.Runtime.CSharp.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MahApps.Metro.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MaterialDesignColors.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MetroFramework.Design.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MetroFramework.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MetroFramework.Fonts.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Nerdicus.VirusTotal.NET.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\SharpDisasm.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\BouncyCastle.Crypto.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.Core.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Common.Logging.Core.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\itextsharp.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MahApps.Metro.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MahApps.Metro.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MaterialDesignColors.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.AccessControl.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Permissions.xml
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\System.Security.Principal.Windows.xml
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\FlatLoginWatermark.FormLogin.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\GUI_V_2.FormMain.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.Output.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.TextReader.resources
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CopyComplete
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\project\Analyer_me\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\project\Analyer_me\Analyzer\Analyzer\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
