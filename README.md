@@ -31,4 +31,4 @@ Suggeted Future Developments
 4. Suggest to expand supported file types. eg. .dll,.sys, etc.
 5. Expand to Dynamic Analysis Techniques
 
-Contact esh.agalawatta@gmail.com for more infomation.
+Contact esh.agalawatta@gmail.com for more information.
