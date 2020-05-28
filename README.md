@@ -15,7 +15,8 @@ How to build
 2. Open project in Visual studio 17 or higher
 3. Restore Detection matrix file where in App_data to MS sql server and change connection string as yours
 4. Add your VirusTotal and Whois data API keys to "APIkey.txt" file
-5. Starting develop
+5. Create folder structure accordng to source code in mainform
+6. Starting develop
 
 Used languages
 1. C# for core of Analyzer
