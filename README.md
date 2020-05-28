@@ -1,5 +1,5 @@
 # Analyzer
-Analyzer Back-door Detection Tool. Analyze and detect back-doors in .exe files.
+Analyzer v1.0 Back-door Detection Tool. Analyze and detect back-doors in .exe files.
 
 System Requirements,
 1. Windows 7 or higher
