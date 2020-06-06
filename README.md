@@ -11,11 +11,11 @@ System Requirements,
 
 How to use it
 
-1. Run the Analyzer.exe .(It will present in /bin/Debug folder path)
-2. Login to system with using login credential
-3. Select exe file/s you want to scan
-4. After clicking scan button will indicate results.You can download detail output as a pdf file
-5. In settings, you can update latest detection matrix by clicking Update button and can clear history by clicking delete history button
+1. Run the Analyzer.exe (It will present in /bin/Debug folder path)
+2. Login to system with using login credentials
+3. Select exe file/s that you want to scan
+4. After clicking scan button will indicate results. You can download detail output as a pdf file
+5. In settings, you can update to latest detection matrix by clicking "Update" button and can clear history by clicking "Delete" button
 
 How to build
 
