@@ -39,4 +39,4 @@ Suggested Future Developments
 4. Suggest to expand supported file types. Examples: .dll, .sys, .ocx, etc.
 5. Expand to Dynamic Analysis Techniques to reduce false positive and false negative rates
 
-Contact esh.agalawatta@gmail.com for more information.
+Contact esh.agalawatta@gmaildotcom for more information.
