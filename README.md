@@ -9,7 +9,7 @@ System Requirements,
 5. 100 MB space
 6. Active Internet connection
 
-How to use it
+How to use
 
 1. Run the Analyzer.exe (It will present in /bin/Debug folder path)
 2. Login to system with using login credentials
