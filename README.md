@@ -11,7 +11,7 @@ System Requirements,
 
 How to use
 
-1. Run the Analyzer.exe (It will present in /bin/Debug folder path)
+1. Run the Analyzer.exe (It will find in /bin/Debug folder path)
 2. Login to system with using login credentials
 3. Select exe file/s that you want to scan
 4. After clicking scan button will indicate results. You can download detail output as a pdf file
