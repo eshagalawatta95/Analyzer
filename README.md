@@ -28,10 +28,10 @@ How to build
 
 Used languages
 1. C# for core of Analyzer
-2. C++ for plugins
+2. C++ for detection plugins
 3. SQL for Detection Matrix
 
-Suggeted Future Developments
+Suggested Future Developments
 
 1. Integrate Analyzer with Machine Learning model to identifying backdoor process. It can get more accuracy than Detection Matrix method
 2. Proposed to upgrade tool in next development for capability to detect packed and obfuscated executables
