@@ -36,7 +36,7 @@ Suggeted Future Developments
 1. Integrate Analyzer with Machine Learning model to identifying backdoor process. It can get more accuracy than Detection Matrix method
 2. Proposed to upgrade tool in next development for capability to detect packed and obfuscated executables
 3. Proposed to develop multiplatform tool
-4. Suggest to expand supported file types. eg. .dll,.sys, etc.
+4. Suggest to expand supported file types. Examples: .dll, .sys, .ocx, etc.
 5. Expand to Dynamic Analysis Techniques to reduce false positive and false negative rates
 
 Contact esh.agalawatta@gmail.com for more information.
